@@ -1,4 +1,4 @@
-# 🩺 Medical Diagnosis Chatbot using Retrieval-Augmented Generation (RAG) and Llama-2
+# 🩺 Medical Diagnosis Assistant using Retrieval-Augmented Generation (RAG) and Llama-2
 
 ## 📌 Project Overview
 
@@ -173,7 +173,7 @@ Medical-Diagnosis-RAG/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Medical-Diagnosis-RAG.git
+git clone [https://github.com/yourusername/Medical-Diagnosis-RAG.git](https://github.com/RathnavelSubramaniam/module-ii-project-i-Hariprasath08032005.git)
 
 cd Medical-Diagnosis-RAG
 ```
@@ -355,7 +355,7 @@ and unexplained weight loss.
 
 # 👨‍💻 Author
 
-**Hari Prasath**
+**Hari Prasath.S**
 
 B.E. Computer Science and Engineering
 
